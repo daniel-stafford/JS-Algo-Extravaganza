@@ -1,1 +1,1 @@
-### Algorithms and Data Structure in JavaScript!
+### Algorithms and Data Structures in JavaScript!
