@@ -35,3 +35,14 @@
   - Loops
     - Complexity is length of loop \* complexity of functions inside loop
   - O(1) < O(log n) < O(n) < O(nlog n) < O(n^2)
+
+### Objects
+
+- Unordered, key value pairs
+- When to use?
+  - You don't need order
+  - Need fast access, insertion and removal
+  - Insertion - O(1)
+  - Removal - O(1)
+  - Searching - O(N)
+  - Access O(1)
